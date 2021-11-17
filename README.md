@@ -46,5 +46,6 @@ Client and Server Programs in which server process creates a shared memory segme
 message to the shared memory segment. Client process reads the message from the shared memory
 segment and displays it to the screen.
 
-# Assignment No. 8: Implement the C program for Disk Scheduling Algorithms: SSTF, SCAN, C-Look
+# Assignment No. 8:
+Implement the C program for Disk Scheduling Algorithms: SSTF, SCAN, C-Look
 considering the initial head position moving away from the spindle.
